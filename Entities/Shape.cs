@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP.Entities;
+﻿namespace OOP.Entities;
 
 public abstract class Shape
 {
